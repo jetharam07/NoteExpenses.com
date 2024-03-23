@@ -1,1 +1,1 @@
-# NoteExpenses.github
+# NoteExpenses Project
